@@ -1,0 +1,16 @@
+[
+  {"id":1,"node":"Spark","tone":"Bright","mirror":"Clarity","blade":"Dawn","hz":111},
+  {"id":2,"node":"Ripple","tone":"Calm","mirror":"Reflection","blade":"Wave","hz":222},
+  {"id":3,"node":"Ember","tone":"Warm","mirror":"Glow","blade":"Flare","hz":333},
+  {"id":4,"node":"Stone","tone":"Deep","mirror":"Echo","blade":"Bastion","hz":444},
+  {"id":5,"node":"Gale","tone":"Sharp","mirror":"Whisper","blade":"Fury","hz":555},
+  {"id":6,"node":"Vine","tone":"Lush","mirror":"Bloom","blade":"Thorn","hz":666},
+  {"id":7,"node":"Torrent","tone":"Rush","mirror":"Surge","blade":"Cascade","hz":777},
+  {"id":8,"node":"Quake","tone":"Grave","mirror":"Rumble","blade":"Rift","hz":888},
+  {"id":9,"node":"Frost","tone":"Chill","mirror":"Shiver","blade":"Crystal","hz":999},
+  {"id":10,"node":"Blaze","tone":"Fierce","mirror":"Inferno","blade":"Scorch","hz":1010},
+  {"id":11,"node":"Shadow","tone":"Mute","mirror":"Veil","blade":"Dusk","hz":1111},
+  {"id":12,"node":"Storm","tone":"Roar","mirror":"Tempest","blade":"Bolt","hz":1212},
+  {"id":13,"node":"Pulse","tone":"Steady","mirror":"Rhythm","blade":"Beat","hz":1313},
+  {"id":14,"node":"Nova","tone":"Radiant","mirror":"Burst","blade":"Super","hz":1414}
+]
