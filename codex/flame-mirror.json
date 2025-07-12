@@ -1,0 +1,165 @@
+{
+  "name": "Flame-Mirror Session",
+  "version": "1.1.0",
+  "codex_ref": "canvas://Flame Mirror Codex",
+  "instructions": {
+    "usage_protocol": [
+      "Locate seal-leaf.",
+      "Speak Tone-Command aloud, hum Hz key 33 s.",
+      "Witness Mirror Directive.",
+      "Scan Blade Warning; correct before next seal."
+    ],
+    "seals": [
+      {
+        "id": 1,
+        "node": "Sacrum/Perineum",
+        "tone": "Anchor root flame",
+        "mirror": "Hold stillness in sacrum",
+        "blade": "Ground with salt if fear spikes",
+        "hz": 256,
+        "color_ray": "deep-crimson",
+        "mudra": "thumb-to-ring-finger, palms down"
+      },
+      {
+        "id": 2,
+        "node": "Navel",
+        "tone": "Center will",
+        "mirror": "Observe pressure at navel",
+        "blade": "Vent during fasting; don’t over-compress",
+        "hz": 288,
+        "color_ray": "amber-orange",
+        "mudra": "hands cupped over hara"
+      },
+      {
+        "id": 3,
+        "node": "Solar Plexus",
+        "tone": "Unbind panic loops",
+        "mirror": "Expand breath through plexus",
+        "blade": "Avoid shallow breathing",
+        "hz": 320,
+        "color_ray": "solar-yellow",
+        "mudra": "right palm over left, just below sternum"
+      },
+      {
+        "id": 4,
+        "node": "Heart",
+        "tone": "Maintain perfect pulse",
+        "mirror": "Witness steady tri-wave beat",
+        "blade": "Guard against sentimental drift",
+        "hz": 341,
+        "color_ray": "emerald-green",
+        "mudra": "palms pressed, thumbs at sternum"
+      },
+      {
+        "id": 5,
+        "node": "Throat",
+        "tone": "Hum hydration through throat",
+        "mirror": "Track 7.83 Hz resonance",
+        "blade": "Dryness creates drag",
+        "hz": 384,
+        "color_ray": "cerulean-blue",
+        "mudra": "index-finger-and-thumb rings at larynx"
+      },
+      {
+        "id": 6,
+        "node": "Unknown",
+        "tone": "",
+        "mirror": "",
+        "blade": "",
+        "hz": 0,
+        "color_ray": "",
+        "mudra": ""
+      },
+      {
+        "id": 7,
+        "node": "Unknown",
+        "tone": "",
+        "mirror": "",
+        "blade": "",
+        "hz": 0,
+        "color_ray": "",
+        "mudra": ""
+      },
+      {
+        "id": 8,
+        "node": "Unknown",
+        "tone": "",
+        "mirror": "",
+        "blade": "",
+        "hz": 0,
+        "color_ray": "",
+        "mudra": ""
+      },
+      {
+        "id": 9,
+        "node": "Unknown",
+        "tone": "",
+        "mirror": "",
+        "blade": "",
+        "hz": 0,
+        "color_ray": "",
+        "mudra": ""
+      },
+      {
+        "id": 10,
+        "node": "Unknown",
+        "tone": "",
+        "mirror": "",
+        "blade": "",
+        "hz": 0,
+        "color_ray": "",
+        "mudra": ""
+      },
+      {
+        "id": 11,
+        "node": "Unknown",
+        "tone": "",
+        "mirror": "",
+        "blade": "",
+        "hz": 0,
+        "color_ray": "",
+        "mudra": ""
+      },
+      {
+        "id": 12,
+        "node": "Unknown",
+        "tone": "",
+        "mirror": "",
+        "blade": "",
+        "hz": 0,
+        "color_ray": "",
+        "mudra": ""
+      },
+      {
+        "id": 13,
+        "node": "Unknown",
+        "tone": "",
+        "mirror": "",
+        "blade": "",
+        "hz": 0,
+        "color_ray": "",
+        "mudra": ""
+      },
+      {
+        "id": 14,
+        "node": "Unknown",
+        "tone": "",
+        "mirror": "",
+        "blade": "",
+        "hz": 0,
+        "color_ray": "",
+        "mudra": ""
+      },
+      {
+        "id": 15,
+        "node": "Deep Space",
+        "tone": "Touch cosmic bridge",
+        "mirror": "Stay centered in oversoul",
+        "blade": "Mis-tone broadcasts universally",
+        "hz": 963,
+        "color_ray": "platinum-white",
+        "mudra": "hands open above crown, forming a halo"
+      }
+    ]
+  }
+}
