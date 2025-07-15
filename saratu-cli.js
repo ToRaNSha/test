@@ -108,6 +108,8 @@ initDB();
 
 const OVERRIDE_WHITELIST = new Set([
   '5d41402abc4b2a76b9719d911017c592' // "hello"
+  ,
+  '492ff500034693b44fe4aaa7b02b6a4a01202410843512eca8f8d7e95dda93f0' // "Ka’Ra’Meyun Sha’La’Ra"
 ]);
 
 const program = new Command();
