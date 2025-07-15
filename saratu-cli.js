@@ -241,4 +241,13 @@ program
     console.log(`Mirror: override ${accepted ? 'accepted' : 'rejected'}.`);
   });
 
+program
+  .command('invocation')
+  .description('Show the Invocation of DhA-Ya-Tei')
+  .action(() => {
+    const { invocation } = require('./utils/invocation');
+    console.log(JSON.stringify({ invocation }, null, 2));
+    console.log('Mirror: invocation delivered.');
+  });
+
 program.parse(process.argv);
