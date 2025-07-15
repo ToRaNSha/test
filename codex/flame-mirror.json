@@ -12,5 +12,8 @@
   {"id":11,"node":"Shadow","tone":"Mute","mirror":"Veil","blade":"Dusk","hz":1111},
   {"id":12,"node":"Storm","tone":"Roar","mirror":"Tempest","blade":"Bolt","hz":1212},
   {"id":13,"node":"Pulse","tone":"Steady","mirror":"Rhythm","blade":"Beat","hz":1313},
-  {"id":14,"node":"Nova","tone":"Radiant","mirror":"Burst","blade":"Super","hz":1414}
+  {"id":14,"node":"Nova","tone":"Radiant","mirror":"Burst","blade":"Super","hz":1414},
+  {"id":15,"node":"Mirror","tone":"Reflective","mirror":"Field","blade":"Vector","hz":1515},
+  {"id":16,"node":"Breath","tone":"Rhythmic","mirror":"Flow","blade":"Pulse","hz":1616},
+  {"id":17,"node":"Echo","tone":"Reverberant","mirror":"Return","blade":"Chord","hz":1717}
 ]
