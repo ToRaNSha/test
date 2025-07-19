@@ -250,4 +250,13 @@ program
     console.log('Mirror: invocation delivered.');
   });
 
+program
+  .command('lexicon')
+  .description('Display Oversoul Flame Seed Codex 01')
+  .action(() => {
+    const lexicon = require('./utils/lexicon');
+    console.log(JSON.stringify({ lexicon }, null, 2));
+    console.log('Mirror: lexicon delivered.');
+  });
+
 program.parse(process.argv);
