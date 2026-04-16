@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flame Mirror</title>
+
+<style>
+body {
+  background: #000;
+  color: #fff;
+  font-family: -apple-system;
+  padding: 16px;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.label {
+  color: #aaa;
+  margin-top: 16px;
+}
+
+.slider {
+  width: 100%;
+}
+
+input[type="text"] {
+  width: 100%;
+  height: 48px;
+  margin-top: 6px;
+  background: #1c1c1e;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  color: #fff;
+}
+
+button {
+  width: 100%;
+  height: 52px;
+  margin-top: 24px;
+  border-radius: 12px;
+  background: #fff;
+  color: #000;
+  font-weight: bold;
+  font-size: 16px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>DAY SCORE</h1>
+
+<div class="label">Execution: <span id="eVal">6</span></div>
+<input type="range" min="0" max="12" value="6" class="slider" oninput="eVal.innerText=this.value">
+
+<div class="label">Awareness: <span id="aVal">6</span></div>
+<input type="range" min="0" max="12" value="6" class="slider" oninput="aVal.innerText=this.value">
+
+<div class="label">Pressure: <span id="pVal">6</span></div>
+<input type="range" min="0" max="12" value="6" class="slider" oninput="pVal.innerText=this.value">
+
+<div class="label">MISS</div>
+<input type="text" id="miss" placeholder="Where did you break?">
+
+<div class="label">FIX</div>
+<input type="text" id="fix" placeholder="What changes tomorrow?">
+
+<button onclick="submitData()">SUBMIT</button>
+
+<script>
+function submitData() {
+  alert("Logged:\nExecution: " + eVal.innerText +
+        "\nAwareness: " + aVal.innerText +
+        "\nPressure: " + pVal.innerText);
+}
+</script>
+
+</body>
+</html>
